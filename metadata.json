@@ -1,0 +1,6 @@
+{
+  "name": "Coin Dev",
+  "description": "Learn to Build Crypto Projects—Safely, Step by Step.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
